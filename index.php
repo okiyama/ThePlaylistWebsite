@@ -14,7 +14,7 @@ Youtube URL: <input type="text" name="url"><br />
 if(isset($_POST["url"])) {
 	$cmd = "youtube-dl -i --extract-audio --audio-format mp3 --output \"/var/www/html/mp3/%(title)s.%(ext)s\" " . escapeshellarg($_POST["url"]);
 	echo "<br />Downloading video now, maybe this will get a progress bar later";
-	echo $cmd;
+	echo "<br />Command: " . $cmd;
 	shell_exec($cmd);
 	echo "<br />Finished downloading, updating list of streamable files.";
 	shell_exec("python /var/www/html/vip/genRoster.py");
