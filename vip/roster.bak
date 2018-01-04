@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+
+		<track>
+			<creator>Vidya Intarweb Playlist</creator>
+			<title>1115 Tracks (Last Update: Dec 18 16)</title>
+			<location>http://vip.aersia.net/mu/vip.m4a</location>
+		</track>
+
+		<track>
+			<creator>MOTD 12/18/16</creator>
+			<title>8 years strong!</title>
+			<location>http://vip.aersia.net/mu/rayman-stageclear.m4a</location>
+		</track>
+
+		<track>
+			<creator>Changelog</creator>
+			<title>vip.aersia.net/changelog.txt</title>
+			<location>http://vip.aersia.net/mu/earthbound-okssuka.m4a</location>
+		</track>
+
+		<track>
+			<creator>Notice</creator>
+			<title>2 SONGS PLAYING AT ONCE? DISABLE FLASHBLOCK OR WHITELIST THE SITE IT'S PLAYING IN.</title>
+			<location>http://vip.aersia.net/mu/freespace-m2aarv2.m4a</location>
+		</track>
+
+		<track>
+			<creator></creator>
+			<title>Crushing Evil and Spreading the Truth</title>
+			<location>http://vip.aersia.net/mu/99spirits-crushingevil&amp;spreadingthetruth.m4a</location>
+		</track>
+	</trackList>
+</playlist>
